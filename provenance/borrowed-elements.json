@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "upstream": {
+    "project": "Scrollcraft",
+    "author": "Nate Herk",
+    "repository": "https://github.com/nateherkai/scroll-craft",
+    "pinnedCommit": "e95798551874854cef6dd3996ec7de1364a82bbd"
+  },
+  "records": []
+}

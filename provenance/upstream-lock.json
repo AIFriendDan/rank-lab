@@ -1,0 +1,9 @@
+{
+  "project": "Scrollcraft",
+  "author": "Nate Herk",
+  "repository": "https://github.com/nateherkai/scroll-craft",
+  "license": "MIT",
+  "pinnedCommit": "e95798551874854cef6dd3996ec7de1364a82bbd",
+  "namedExamplesReferenceOnly": ["Orrery", "PERKFORM", "Fallowbank"],
+  "policy": "Do not silently advance this commit. Review upstream changes and update provenance intentionally."
+}
